@@ -1,12 +1,12 @@
 {
     "homepage": "https://mingw-w64.org",
     "description": "GNU Compiler Collection (Mingw-w64 port from MSYS2 project)",
-    "version": "10.1.0-2",
+    "version": "10.3.0-8",
     "license": "GPL-3.0-or-later,ZPL-2.1,...",
     "architecture": {
         "64bit": {
             "url": [
-                "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-gcc-10.1.0-2-any.pkg.tar.zst",
+                "https://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-gcc-10.3.0-8-any.pkg.tar.zst",
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-binutils-2.34-2-any.pkg.tar.zst",
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-crt-git-8.0.0.5815.9517d302-1-any.pkg.tar.xz",
                 "http://repo.msys2.org/mingw/x86_64/mingw-w64-x86_64-headers-git-8.0.0.5815.9517d302-1-any.pkg.tar.xz",
